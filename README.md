@@ -82,6 +82,15 @@
 
 ## D
 
++ **Dihak M N A**
+  - Skills: #VanillaJS #Angluar #Vue
+  - Github: [@dihak](https://github.com/dihak)
+  - Facebook: N/A
+  - Twitter: [@dihak](https://twitter.com/dihak_)
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@dihak](https://medium.com/@dihak)
+
 ## E
 
 ## F
@@ -145,6 +154,15 @@
   - Medium: [@dwicao](https://medium.com/@dwicao)
 
 ## M
+
++ **Muhammad Nur Fuad (illvart)**
+  - Skills: #VanillaJS
+  - Github: [@illvart](https://github.com/illvart)
+  - Facebook: N/A
+  - Twitter: [@illvart](https://twitter.com/illvart)
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@illvart](https://medium.com/@illvart)
 
 + **Muhibbudin Suretno**
   - Skills: #Vue
@@ -269,6 +287,15 @@
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 
 ## T
+
++ **Taufik Nurrohman**
+  - Skills: #VanillaJS #jQuery
+  - Github: [@tovic](https://github.com/tovic)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: [DTE :]](https://www.dte.web.id/)
+  - Medium: N/A
 
 ## U
 
