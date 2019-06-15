@@ -83,7 +83,7 @@
 ## D
 
 + **Dihak M N A**
-  - Skills: #VanillaJS #Angluar #Vue
+  - Skills: #VanillaJS #Angular #Vue
   - Github: [@dihak](https://github.com/dihak)
   - Facebook: N/A
   - Twitter: [@dihak_](https://twitter.com/dihak_)
