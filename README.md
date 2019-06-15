@@ -147,12 +147,12 @@
 ## M
 
 + **Muhibbudin Suretno**
-  - Skills: #Vue
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Skills: #NodeJs, #Vue, #TypeScript
+  - Github: [@muhibbudins](https://github.com/muhibbudins)
+  - Facebook: [muhibbudins](https://web.facebook.com/muhibbudins)
+  - Twitter: [@muhibbudins](https://twitter.com/muhibbudins)
+  - LinkedIn: [@muhibbudins](https://www.linkedin.com/in/muhibbudins/)
+  - Blog: [muhibbudins.me](https://muhibbudins.me/)
   - Medium: [@muhibbudins](https://medium.com/@muhibbudins)
 
 ## N
