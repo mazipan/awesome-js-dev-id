@@ -294,7 +294,7 @@
   - Facebook: N/A
   - Twitter: N/A
   - LinkedIn: N/A
-  - Blog: [DTE :]](https://www.dte.web.id/)
+  - Blog: [DTE](https://www.dte.web.id/)
   - Medium: N/A
 
 ## U
