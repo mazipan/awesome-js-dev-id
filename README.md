@@ -86,7 +86,7 @@
   - Skills: #VanillaJS #Angluar #Vue
   - Github: [@dihak](https://github.com/dihak)
   - Facebook: N/A
-  - Twitter: [@dihak](https://twitter.com/dihak_)
+  - Twitter: [@dihak_](https://twitter.com/dihak_)
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@dihak](https://medium.com/@dihak)
