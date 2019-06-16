@@ -268,6 +268,15 @@
   - Blog: N/A
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 
++ **Sutan Gading Fadhillah Nasution**
+  - Skills: #VanillaJS #Vue #NodeJS
+  - Github: [@sutanlab](https://github.com/sutanlab/)
+  - Facebook: N/A
+  - Twitter: [@sutan_gnst](https://twitter.com/sutan_gnst/)
+  - LinkedIn: [Sutan Gading Fadhillah Nasution](https://www.linkedin.com/in/sutan-nasution/)
+  - Blog: [sutanlab.js.org](https://sutanlab.js.org/)
+  - Medium: N/A
+
 ## T
 
 ## U
