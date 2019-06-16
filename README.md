@@ -203,6 +203,15 @@
 
 ## R
 
++ **Randy Vianda Putra**
+  - Skills: #React #ReactNative #GraphQL
+  - Github: [@randyviandaputra](https://github.com/randyviandaputra)
+  - Facebook: [cyberandjr](https://www.facebook.com/cyberandjr)
+  - Twitter: N/A
+  - LinkedIn: [@randyviandaputra](https://www.linkedin.com/in/randyviandaputra/)
+  - Blog: [randy.js.org](https://randy.js.org/)
+  - Medium: [@randyviandaputra](https://medium.com/@randyviandaputra)
+
 + **Resi Respati**
   - Skills: #React
   - Github: N/A
