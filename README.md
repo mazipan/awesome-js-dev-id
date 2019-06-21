@@ -150,6 +150,15 @@
 
 ## K
 
++ **Kevin Hermawan**
+  - Skills: #React
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@kevinhermawan](https://medium.com/kevinhermawan)
+
 
 ## L
 
