@@ -204,12 +204,12 @@
 ## R
 
 + **Resi Respati**
-  - Skills: #React
-  - Github: N/A
+  - Skills: #React, #TypeScript
+  - Github: [@resir014](https://github.com/resir014)
   - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Twitter: [@resir014](https://twitter.com/resir014)
+  - LinkedIn: [@resir014](https://www.linkedin.com/in/resir014/)
+  - Blog: [resir014.xyz](https://resir014.xyz/)
   - Medium: [@resir014](https://medium.com/@resir014)
 
 + **Rian Yulianto W**
