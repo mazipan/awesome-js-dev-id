@@ -248,6 +248,15 @@
 
 ## R
 
++ **Rahmat Hidayat**
+  - Skills: #React, #TypeScript
+  - Github: [@rahmatrhd](https://github.com/rahmatrhd)
+  - Facebook: N/A
+  - Twitter: [@rahmathd_](https://twitter.com/rahmathd_)
+  - LinkedIn: [@rahmat-hidayat](https://www.linkedin.com/in/rahmat-hidayat-8671a268/)
+  - Blog: [rahmathd.com](https://www.rahmathd.com/)
+  - Medium: N/A
+
 + **Resi Respati**
   - Skills: #React, #TypeScript
   - Github: [@resir014](https://github.com/resir014)
