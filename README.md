@@ -249,7 +249,7 @@
 ## R
 
 + **Rahmat Hidayat**
-  - Skills: #React, #TypeScript
+  - Skills: #React, #TypeScript, #NodeJs, #GraphQL
   - Github: [@rahmatrhd](https://github.com/rahmatrhd)
   - Facebook: N/A
   - Twitter: [@rahmathd_](https://twitter.com/rahmathd_)
