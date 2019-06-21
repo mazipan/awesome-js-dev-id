@@ -121,6 +121,15 @@
 
 ## J
 
++ **Jacky Efendi**
+  - Skills: #React, #NodeJs
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Jacky Efendi](https://www.linkedin.com/in/jackyef/)
+  - Blog: N/A
+  - Medium: N/A
+  
 + **Jihad Dzikri Waspada**
   - Skills: #React, #TypeScript
   - Github: N/A
