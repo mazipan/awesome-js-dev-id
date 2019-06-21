@@ -60,10 +60,10 @@
 
 + **Antony Budianto**
   - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
+  - Github: [@antonybudianto](https://github.com/antonybudianto)
+  - Facebook: [Antony Budianto](https://facebook.com/antonybudianto)
+  - Twitter: [@antonybudianto](https://twitter.com/antonybudianto)
+  - LinkedIn: [Antony Budianto](https://linkedin.com/in/antonybudianto)
   - Blog: N/A
   - Medium: [@antonybudianto](https://medium.com/@antonybudianto)
 
