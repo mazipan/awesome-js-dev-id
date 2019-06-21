@@ -94,6 +94,15 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@108kb](https://medium.com/@108kb)
+  
++ **Fatih Kalifa**
+  - Skills: #React, #NodeJs
+  - Github: [pveyes](https://github.com/pveyes)
+  - Facebook: [pveyes](https://www.facebook.com/pveyes)
+  - Twitter: [@pveyes](https://twitter.com/pveyes)
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
 
 ## G
 
@@ -146,6 +155,24 @@
 
 ## M
 
++ **Mulia Nasution**
+  - Skills: #Vue
+  - Github: [mul14](https://github.com/mul14)
+  - Facebook: [mul14](https://www.facebook.com/mul14)
+  - Twitter: [@mul14](https://twitter.com/mul14)
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+  
++ **Muhammad Mustadi**
+  - Skills: #React, #NodeJs
+  - Github: [mathdroid](https://github.com/mathdroid)
+  - Facebook: [mathdroid](https://www.facebook.com/mathdroid)
+  - Twitter: [@mathdroid](https://twitter.com/mathdroid)
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+  
 + **Muhibbudin Suretno**
   - Skills: #NodeJs, #Vue, #TypeScript
   - Github: [@muhibbudins](https://github.com/muhibbudins)
@@ -239,6 +266,16 @@
   - Blog: N/A
   - Medium: [@rizal_hilman](https://medium.com/@rizal_hilman)
 
+
++ **Rizki Romadhoni**
+  - Skills: #React
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Rizki Romadhoni](https://www.linkedin.com/in/rizki-romadhoni-0a0bb0b8/)
+  - Blog: N/A
+  - Medium: N/A
+  
 + **R AdySurya A**
   - Skills: #React
   - Github: N/A
