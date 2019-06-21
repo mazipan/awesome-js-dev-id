@@ -130,6 +130,15 @@
   - Blog: N/A
   - Medium: N/A
   
++ **Jason Wihardja**
+  - Skills: #NodeJs
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Jason Wihardja](https://www.linkedin.com/in/jasonwihardja/)
+  - Blog: N/A
+  - Medium: N/A
+  
 + **Jihad Dzikri Waspada**
   - Skills: #React, #TypeScript
   - Github: N/A
