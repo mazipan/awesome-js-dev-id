@@ -316,10 +316,10 @@
 
 + **Sonny Lazuardi**
   - Skills: #React, #ReactNative, #NodeJs, #Typescript, #GraphQL
-  - Github: https://github.com/sonnylazuardi
-  - Facebook: https://facebook.com/sonny.lazuardi
-  - Twitter: https://twitter.com/sonnylazuardi
-  - LinkedIn: https://sg.linkedin.com/in/sonnylazuardi
+  - Github: [sonnylazuardi](https://github.com/sonnylazuardi)
+  - Facebook: [Sonny Lazuardi](https://facebook.com/sonny.lazuardi)
+  - Twitter: [@sonnylazuardii](https://twitter.com/sonnylazuardi)
+  - LinkedIn: [Sonny Lazuardi](https://sg.linkedin.com/in/sonnylazuardi)
   - Blog: https://sonnylab.com
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 
