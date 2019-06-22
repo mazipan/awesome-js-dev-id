@@ -258,12 +258,13 @@
   - Medium: [@resir014](https://medium.com/@resir014)
 
 + **Rian Yulianto W**
-  - Skills: #Angular
-  - Github: N/A
+  - Skills: #Angular , #TypeScript , #Vue
+  - Github: [@Gulajava](https://github.com/GulajavaMinistudio)
+  - Gitlab: [@Gulajava](https://gitlab.com/gulajava.mini)
   - Facebook: N/A
   - Twitter: N/A
   - LinkedIn: N/A
-  - Blog: N/A
+  - Blog: [Kode dan Kodean](https://medium.com/kode-dan-kodean)
   - Medium: [@kucingmeongs](https://medium.com/@kucingmeongs)
 
 + **Riza Fahmi**
