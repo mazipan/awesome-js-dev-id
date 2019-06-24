@@ -244,11 +244,11 @@
 
 + **Pradita Utama**
   - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [praditautama](https://github.com/praditautama)
+  - Facebook: [Pradita Utama](https://www.facebook.com/pradita.utama)
+  - Twitter: [@praditautama](https://twitter.com/praditautama)
+  - LinkedIn: [Pradita Utama](https://www.linkedin.com/in/praditautama/)
+  - Blog: [Pradita Utama](https://www.praditautama.com/)
   - Medium: [@pradita.utama](https://medium.com/@pradita.utama)
 
 + **Pramesti Hatta K.**
