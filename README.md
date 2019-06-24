@@ -296,11 +296,11 @@
   
 + **R AdySurya A**
   - Skills: #React
-  - Github: N/A
+  - Github: [@ri7nz](https://github.com/@ri7nz)
   - Facebook: N/A
-  - Twitter: N/A
+  - Twitter: [@ri7nz](https://twitter.com/ri7nz)
   - LinkedIn: N/A
-  - Blog: N/A
+  - Blog: [rin.rocks](https://rin.rocks/)
   - Medium: [@ri7nz](https://medium.com/@ri7nz)
 
 ## S
