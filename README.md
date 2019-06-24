@@ -49,6 +49,15 @@
   - Blog: N/A
   - Medium: [@agastyadarma](https://medium.com/@agastyadarma)
 
++ **Agung Surya Bangsa**
+  - Skills: #React #ReactNative #Angular #Fluter
+  - Github: [@agungsb]
+  - Facebook: [Agung Surya Bangsa](https://www.facebook.com/agung.lth)
+  - Twitter: N/A
+  - LinkedIn: [Agung Surya Bangsa](https://www.linkedin.com/in/agung-surya-bangsa-22615495/)
+  - Blog: N/A
+  - Medium: [@agungsurya](https://medium.com/@agungsurya)
+
 + **Alfred Crosby**
   - Skills: #React
   - Github: N/A
