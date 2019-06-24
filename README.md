@@ -47,7 +47,7 @@
   - Twitter: N/A
   - LinkedIn: [Afrian Junior](https://www.linkedin.com/in/afrianjunior/)
   - Blog: N/A
-  - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
+  - Medium: N/A
 
 + **Agastya Darma Laksana**
   - Skills: #React
@@ -103,6 +103,7 @@
 ## E
 
 ## F
+
 + **Fachruzi Ramadhan**
   - Skills: N/A
   - Github: N/A
@@ -111,7 +112,6 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: N/A
-
 
 + **Fariz Rizaldy**
   - Skills: N/A
