@@ -322,6 +322,17 @@
   - Blog: N/A
   - Medium: N/A
   
+  
+  **Rully W Hendrawan**
+  - Skills: #React, #SVG, #Data_Visualisation, #TypeScript, #Animation
+  - Github: [ruwhan](https://github.com/ruwhan)
+  - Facebook: N/A
+  - Twitter: [_ruwhan](https://twitter.com/_ruwhan)
+  - LinkedIn: [Rully](https://www.linkedin.com/in/rullyabuhusain)
+  - Blog: [Portfolio](https://ruwhan.github.io)
+  - Medium: N/A
+  
+  
 + **R AdySurya A**
   - Skills: #React
   - Github: [@ri7nz](https://github.com/@ri7nz)
