@@ -23,12 +23,12 @@
 ## A
 
 + **Ade Yahya Prasetyo**
-  - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Skills: #React, #ReactNative, #NodeJs, GraphQL
+  - Github: Github: [adeyahya](https://github.com/adeyahya)
+  - Facebook: [Ade Yahya Prasetyo](https://www.facebook.com/adeyahyap)
+  - Twitter: [@adeyahyap](https://twitter.com/adeyahyap)
+  - LinkedIn: [Ade Yahya Prasetyo](https://www.linkedin.com/in/adeyahyap/)
+  - Blog: [www.ihavemind.com](https://www.ihavemind.com)
   - Medium: [@adeyahya](https://medium.com/@adeyahya)
 
 + **Afrimadoni Dinata**
