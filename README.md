@@ -94,13 +94,23 @@
   - Blog: N/A
   - Medium: [@ariyahidayat](https://medium.com/@ariyahidayat)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## B
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## C
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## D
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## E
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## F
 
@@ -131,7 +141,11 @@
   - Blog: N/A
   - Medium: N/A
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## G
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## H
 
@@ -144,7 +158,11 @@
   - Blog: N/A
   - Medium: [@hafidmukhlasin](https://medium.com/@hafidmukhlasin)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## I
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## J
 
@@ -175,6 +193,8 @@
   - Blog: N/A
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## K
 
 + **Kevin Hermawan**
@@ -186,6 +206,7 @@
   - Blog: N/A
   - Medium: [@kevinhermawan](https://medium.com/kevinhermawan)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## L
 
@@ -206,6 +227,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@dwicao](https://medium.com/@dwicao)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## M
 
@@ -236,6 +259,8 @@
   - Blog: [muhibbudins.me](https://muhibbudins.me/)
   - Medium: [@muhibbudins](https://medium.com/@muhibbudins)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## N
 
 + **Naufal Rabbani**
@@ -247,7 +272,11 @@
   - Blog: N/A
   - Medium: [@BosNaufal](https://medium.com/@BosNaufal)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## O
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## P
 
@@ -278,9 +307,11 @@
   - Blog: N/A
   - Medium: [@opam22](https://medium.com/@opam22)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## Q
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## R
 
@@ -330,7 +361,6 @@
   - Blog: N/A
   - Medium: [@rizal_hilman](https://medium.com/@rizal_hilman)
 
-
 + **Rizki Romadhoni**
   - Skills: #React
   - Github: N/A
@@ -348,6 +378,8 @@
   - LinkedIn: N/A
   - Blog: [rin.rocks](https://rin.rocks/)
   - Medium: [@ri7nz](https://medium.com/@ri7nz)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## S
 
@@ -369,15 +401,27 @@
   - Blog: https://sonnylab.com
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## T
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## U
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## V
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## W
 
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
+
 ## X
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## Y
 
@@ -389,6 +433,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@tyohan](https://medium.com/@tyohan)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## Z
 
@@ -409,6 +455,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
+
+[⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ----
 
