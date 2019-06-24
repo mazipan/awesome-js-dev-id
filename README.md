@@ -11,7 +11,7 @@
 
 ## Cara Untuk Menambahkan Daftar Baru
 
-+ Open issue baru pada repository ini.
++ **Pastikan kalian tidak menambahkan nama kalian sendiri**, *lebih baik jika kalian di promote orang lain daripada self-claiming* 😅
 + Bila berkenan menambahkan sendiri, silakan fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
 + PR ke branch master dari repo ini
 + Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan **Abjad (*alphabet*)** dari namanya
