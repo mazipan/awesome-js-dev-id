@@ -133,7 +133,7 @@
   - Medium: [@108kb](https://medium.com/@108kb)
   
 + **Fatih Kalifa**
-  - Skills: #React, #NodeJs, #Svelte, #Rust, #GraphQL
+  - Skills: #React, #NodeJs, #ReasonML, #Svelte, #Rust, #GraphQL
   - Github: [pveyes](https://github.com/pveyes)
   - Facebook: [pveyes](https://www.facebook.com/pveyes)
   - Twitter: [@pveyes](https://twitter.com/pveyes)
