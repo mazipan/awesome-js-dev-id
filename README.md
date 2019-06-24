@@ -112,6 +112,7 @@
   - Blog: N/A
   - Medium: N/A
 
+
 + **Fariz Rizaldy**
   - Skills: N/A
   - Github: N/A
