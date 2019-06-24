@@ -133,13 +133,13 @@
   - Medium: [@108kb](https://medium.com/@108kb)
   
 + **Fatih Kalifa**
-  - Skills: #React, #NodeJs
+  - Skills: #React, #NodeJs, #Svelte, #Rust, #GraphQL
   - Github: [pveyes](https://github.com/pveyes)
   - Facebook: [pveyes](https://www.facebook.com/pveyes)
   - Twitter: [@pveyes](https://twitter.com/pveyes)
-  - LinkedIn: N/A
-  - Blog: N/A
-  - Medium: N/A
+  - LinkedIn: [fatihkalifa](https://www.linkedin.com/in/fatihkalifa/)
+  - Blog: [fatihkalifa.com](https://fatihkalifa.com/)
+  - Medium: [@pveyes](https://medium.com/@pveyes)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
