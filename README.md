@@ -40,6 +40,15 @@
   - Blog: N/A
   - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 
++ **Afrian Junior**
+  - Skills: #React
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Afrian Junior](https://www.linkedin.com/in/afrianjunior/)
+  - Blog: N/A
+  - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
+
 + **Agastya Darma Laksana**
   - Skills: #React
   - Github: N/A
@@ -94,6 +103,15 @@
 ## E
 
 ## F
++ **Fachruzi Ramadhan**
+  - Skills: N/A
+  - Github: N/A
+  - Facebook: [Fachruzi Ramadhan](https://www.facebook.com/dhanpris)
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+
 
 + **Fariz Rizaldy**
   - Skills: N/A
@@ -244,11 +262,11 @@
 
 + **Pradita Utama**
   - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [praditautama](https://github.com/praditautama)
+  - Facebook: [Pradita Utama](https://www.facebook.com/pradita.utama)
+  - Twitter: [@praditautama](https://twitter.com/praditautama)
+  - LinkedIn: [Pradita Utama](https://www.linkedin.com/in/praditautama/)
+  - Blog: [Pradita Utama](https://www.praditautama.com/)
   - Medium: [@pradita.utama](https://medium.com/@pradita.utama)
 
 + **Pramesti Hatta K.**
