@@ -51,7 +51,7 @@
 
 + **Agung Surya Bangsa**
   - Skills: #React #ReactNative #Angular #Fluter
-  - Github: [@agungsb]
+  - Github: [@agungsb](https://github.com/agungsb)
   - Facebook: [Agung Surya Bangsa](https://www.facebook.com/agung.lth)
   - Twitter: N/A
   - LinkedIn: [Agung Surya Bangsa](https://www.linkedin.com/in/agung-surya-bangsa-22615495/)
