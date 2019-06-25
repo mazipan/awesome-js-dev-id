@@ -207,6 +207,15 @@
   - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
   - Medium: [@mazipan](https://medium.com/@mazipan)
 
++ **Igar Ramaddhan**
+  - Skills: #React #NodeJS
+  - Github: Github: [@igarramaddhan](https://github.com/igarramaddhan)
+  - Facebook: [Igar Ramaddhan](https://www.facebook.com/igarramaddhan)
+  - Twitter: [@igarramaddhan](https://twitter.com/igarramaddhan)
+  - LinkedIn: [Igar Ramaddhan](https://www.linkedin.com/in/igar-ramaddhan-55b499140)
+  - Blog: [ynrk.tk](https://ynrk.tk/)
+  - Medium: N/A
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## J
