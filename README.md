@@ -31,6 +31,15 @@
   - Blog: [www.ihavemind.com](https://www.ihavemind.com)
   - Medium: [@adeyahya](https://medium.com/@adeyahya)
 
++ **Adiatma Kamarudin**
+  - Skills: #ReactJS, #GraphQL, #Webpack, #TypeScript, #Flow
+  - Github: [adiatma9024](https://github.com/adiatma9024)
+  - Facebook: [Adiatma Kamarudin](https://www.facebook.com/adiatma.kamarudin)
+  - Twitter: N/A
+  - LinkedIn: [Adiatma Kamarudin](https://www.linkedin.com/in/adiatma-kamarudin-a63718138)
+  - Blog: [adiatma9024.github.io](https://adiatma9024.github.io)
+  - Medium: [@tutorjs](https://medium.com/tutorjs)
+
 + **Afrimadoni Dinata**
   - Skills: N/A
   - Github: N/A
