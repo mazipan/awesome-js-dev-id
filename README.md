@@ -171,6 +171,15 @@
 
 ## I
 
++ **Irfan Maulana**
+  - Skills: #Angular #Vue #
+  - Github: Github: [@mazipan](https://github.com/mazipan)
+  - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
+  - Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
+  - LinkedIn: [Irfan Maulana](https://www.linkedin.com/in/irfanmaulanamazipan)
+  - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
+  - Medium: [@mazipan](https://medium.com/@mazipan)
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## J
