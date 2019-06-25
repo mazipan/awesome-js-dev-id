@@ -124,6 +124,15 @@
 
 ## D
 
+  **Dwi Agustianto**
+  - Skills: #Angular, #Svelte, #WebDesign, #Flow
+  - Github: [agusID](https://github.com/agusID)
+  - Facebook: [Dwi Agustianto](https://www.facebook.com/me.agusdwi)
+  - Twitter: N/A
+  - LinkedIn: [Dwi Agustianto](https://www.linkedin.com/in/agusid/)
+  - Blog: [agusdwi.id](https://agusdwi.id)
+  - Medium: [@agusdwi](https://medium.com/@agusdwi)
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## E
