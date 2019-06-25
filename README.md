@@ -190,7 +190,7 @@
 ## I
 
 + **Irfan Maulana**
-  - Skills: #Angular #Vue #
+  - Skills: #Vue
   - Github: Github: [@mazipan](https://github.com/mazipan)
   - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
   - Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
