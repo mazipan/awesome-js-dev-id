@@ -102,6 +102,15 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@ariyahidayat](https://medium.com/@ariyahidayat)
+  
++ **Asendia Mayco**
+  - Skills: #ReactJs
+  - Github: [asendia](https://github.com/asendia)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -150,6 +159,15 @@
   - Blog: [fatihkalifa.com](https://fatihkalifa.com/)
   - Medium: [@pveyes](https://medium.com/@pveyes)
 
++ **Fawwaz Muhammad**
+  - Skills: #React, #NodeJs
+  - Github: [fawwaz](https://github.com/fawwaz)
+  - Facebook: [fawwazmuhammad](http://facebook.com/fawwazmuhammad)
+  - Twitter: [@fawwaz_muhammad](http://twitter.com/fawwaz_muhammad)
+  - LinkedIn: N/A
+  - Blog: [fawwazmuhammad.com](http://fawwazmuhammad.com/)
+  - Medium: N/A
+  
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## G
@@ -211,6 +229,15 @@
   - Blog: N/A
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
++ **Julian Alimin**
+  - Skills: #Angular, #NodeJs
+  - Github: [dmastag](https://github.com/dmastag)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+  
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## K
