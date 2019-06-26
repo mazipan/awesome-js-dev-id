@@ -207,15 +207,6 @@
 
 ## I
 
-+ **Irfan Maulana**
-  - Skills: #Vue
-  - Github: Github: [@mazipan](https://github.com/mazipan)
-  - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
-  - Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
-  - LinkedIn: [Irfan Maulana](https://www.linkedin.com/in/irfanmaulanamazipan)
-  - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
-  - Medium: [@mazipan](https://medium.com/@mazipan)
-
 + **Igar Ramaddhan**
   - Skills: #React #NodeJS
   - Github: Github: [@igarramaddhan](https://github.com/igarramaddhan)
@@ -224,6 +215,15 @@
   - LinkedIn: [Igar Ramaddhan](https://www.linkedin.com/in/igar-ramaddhan-55b499140)
   - Blog: [ynrk.tk](https://ynrk.tk/)
   - Medium: N/A
+  
++ **Irfan Maulana**
+  - Skills: #Vue
+  - Github: [@mazipan](https://github.com/mazipan)
+  - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
+  - Twitter: [@maz_ipan](https://twitter.com/Maz_Ipan)
+  - LinkedIn: [Irfan Maulana](https://www.linkedin.com/in/mazipan)
+  - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
+  - Medium: [@mazipan](https://medium.com/@mazipan)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
