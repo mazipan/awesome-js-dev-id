@@ -85,6 +85,15 @@
   - Blog: N/A
   - Medium: [@alfrcr](https://medium.com/@alfrcr)
 
++ **Andhika Ventausa**
+  - Skills: #React #ReactNative #GraphQL
+  - Github: N/A
+  - Facebook: [Andhika Ventausa](https://www.facebook.com/avent08)
+  - Twitter: [@avent08](https://twitter.com/avent08)
+  - LinkedIn: [Andhika Ventausa](https://linkedin.com/in/andhikaventausa)
+  - Blog: N/A
+  - Medium: N/A
+
 + **Antony Budianto**
   - Skills: #React
   - Github: [@antonybudianto](https://github.com/antonybudianto)
