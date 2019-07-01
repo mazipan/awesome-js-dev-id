@@ -102,7 +102,16 @@
   - LinkedIn: [Antony Budianto](https://linkedin.com/in/antonybudianto)
   - Blog: N/A
   - Medium: [@antonybudianto](https://medium.com/@antonybudianto)
-
+  
++ **Ardi Firmansyah**
+  - Skills: N/A
+  - Github: N/A
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Ardi Firmansyah](https://www.linkedin.com/in/ardi-firmansyah/)
+  - Blog: N/A
+  - Medium: N/A
+  
 + **Ariya Hidayat**
   - Skills: N/A
   - Github: N/A
