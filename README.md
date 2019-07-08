@@ -20,6 +20,10 @@
 + Jangan lupa untuk klik ⭐️ di repository ini.
 + Terima kasih untuk kontribusinya, dan semoga bermanfaat.
 
+## Versi Web Apps
+
+https://javascript-indonesias.github.io/awesome-js-dev-indonesia/
+
 ## A
 
 + **Ade Yahya Prasetyo**
