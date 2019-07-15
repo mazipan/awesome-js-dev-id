@@ -22,7 +22,8 @@
 
 ## Versi Web Apps
 
-https://javascript-indonesias.github.io/awesome-js-dev-indonesia/
++ https://javascript-indonesias.github.io/awesome-js-dev-indonesia/
++ https://puterakahfi.github.io/jsid/
 
 ## A
 
