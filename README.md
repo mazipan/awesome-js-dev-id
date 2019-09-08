@@ -491,6 +491,15 @@
 
 ## T
 
++ **Teofilus Candra**
+  - Skills: #React, #NodeJs, #ReactNative, #Vue
+  - Github: https://github.com/teofiluscandra
+  - Facebook: https://www.facebook.com/teofiluscandra
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@teofilus](https://medium.com/@teofiluscandra)
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## U
