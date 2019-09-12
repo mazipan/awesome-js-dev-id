@@ -147,6 +147,15 @@
 
 ## D
 
++ **Dimitri Wahyudiputra**
+  - Skills: #Javascript #Vim
+  - Github: [dmtrxw](https://github.com/dmtrxw)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Dimitri Wahyudiputra](https://www.linkedin.com/in/dimitri-wahyudiputra/)
+  - Blog: N/A
+  - Medium: N/A
+
   **Dwi Agustianto**
   - Skills: #Angular, #Svelte, #WebDesign, #Flow
   - Github: [agusID](https://github.com/agusID)
