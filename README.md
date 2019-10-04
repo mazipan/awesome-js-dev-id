@@ -204,6 +204,15 @@
 
 ## G
 
+**Gazandi Cahyadarma**
+  - Skills: #React, #NodeJs, #Go, #Ruby, #Java
+  - Github: [gazandic](https://github.com/gazandic)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Gazandi Cahyadarma](https://www.linkedin.com/in/gazandi-cahyadarma-86b726a1)
+  - Blog: N/A
+  - Medium: N/A
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## H
