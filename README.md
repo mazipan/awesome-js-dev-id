@@ -491,6 +491,15 @@
 
 ## T
 
++ **Teno Siswono**
+  - Skills: #React, #Vue, #NodeJs, #Typescript
+  - Github: [tenosiswono](https://github.com/tenosiswono)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## U
