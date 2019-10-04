@@ -222,7 +222,7 @@
 
 ## G
 
-**Gazandi Cahyadarma**
++ **Gazandi Cahyadarma**
   - Skills: #React, #NodeJs, #Go, #Ruby, #Java
   - Github: [gazandic](https://github.com/gazandic)
   - Facebook: N/A
