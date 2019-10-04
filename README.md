@@ -518,6 +518,16 @@
 
 ## T
 
+
++ **Teofilus Candra**
+  - Skills: #React, #NodeJs, #ReactNative, #Vue
+  - Github: https://github.com/teofiluscandra
+  - Facebook: https://www.facebook.com/teofiluscandra
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@teofilus](https://medium.com/@teofiluscandra)
+
 + **Teno Siswono**
   - Skills: #React, #Vue, #NodeJs, #Typescript
   - Github: [tenosiswono](https://github.com/tenosiswono)
@@ -526,6 +536,7 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: N/A
+
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
