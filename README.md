@@ -160,6 +160,15 @@
 
 ## E
 
++ **Eka**
+  - Skills: N/A
+  - Github: [ekafyi](https://github.com/ekafyi)
+  - Facebook: N/A
+  - Twitter: [@ekafyi](https://twitter.com/ekafyi)
+  - LinkedIn: N/A
+  - Blog: [dev.to/ekafyi](https://dev.to/ekafyi)
+  - Medium: N/A
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## F
