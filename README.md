@@ -46,7 +46,7 @@
   - Medium: [@tutorjs](https://medium.com/tutorjs)
 
 + **Afrimadoni Dinata**
-  - Skills: N/A
+  - Skills: Angular
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -55,7 +55,7 @@
   - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 
 + **Afrian Junior**
-  - Skills: #React
+  - Skills: #React #Vue
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -64,7 +64,7 @@
   - Medium: N/A
 
 + **Agastya Darma Laksana**
-  - Skills: #React
+  - Skills: #React #ReactNative
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -100,7 +100,7 @@
   - Medium: N/A
 
 + **Antony Budianto**
-  - Skills: #React
+  - Skills: #React #NodeJS
   - Github: [@antonybudianto](https://github.com/antonybudianto)
   - Facebook: [Antony Budianto](https://facebook.com/antonybudianto)
   - Twitter: [@antonybudianto](https://twitter.com/antonybudianto)
@@ -109,7 +109,7 @@
   - Medium: [@antonybudianto](https://medium.com/@antonybudianto)
   
 + **Ardi Firmansyah**
-  - Skills: N/A
+  - Skills: #React #Vue
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -118,7 +118,7 @@
   - Medium: N/A
   
 + **Ariya Hidayat**
-  - Skills: N/A
+  - Skills: #Vanilla
   - Github: [@ariya](https://github.com/ariya)
   - Facebook: N/A
   - Twitter: [Ariya Hidayat](https://twitter.com/ariyahidayat?lang=en)
@@ -192,7 +192,7 @@
 ## F
 
 + **Fachruzi Ramadhan**
-  - Skills: N/A
+  - Skills: #Docker
   - Github: N/A
   - Facebook: [Fachruzi Ramadhan](https://www.facebook.com/dhanpris)
   - Twitter: N/A
@@ -210,7 +210,7 @@
   - Medium: [@108kb](https://medium.com/@108kb)
   
 + **Fatih Kalifa**
-  - Skills: #React, #NodeJs, #ReasonML, #Svelte, #Rust, #GraphQL
+  - Skills: #React, #NodeJS, #ReasonML, #Svelte, #Rust, #GraphQL
   - Github: [pveyes](https://github.com/pveyes)
   - Facebook: [pveyes](https://www.facebook.com/pveyes)
   - Twitter: [@pveyes](https://twitter.com/pveyes)
@@ -219,7 +219,7 @@
   - Medium: [@pveyes](https://medium.com/@pveyes)
 
 + **Fawwaz Muhammad**
-  - Skills: #React, #NodeJs
+  - Skills: #React, #NodeJS
   - Github: [fawwaz](https://github.com/fawwaz)
   - Facebook: [fawwazmuhammad](http://facebook.com/fawwazmuhammad)
   - Twitter: [@fawwaz_muhammad](http://twitter.com/fawwaz_muhammad)
@@ -232,7 +232,7 @@
 ## G
 
 + **Gazandi Cahyadarma**
-  - Skills: #React, #NodeJs, #Go, #Ruby, #Java
+  - Skills: #React, #NodeJS, #Go, #Ruby, #Java
   - Github: [gazandic](https://github.com/gazandic)
   - Facebook: N/A
   - Twitter: N/A
@@ -245,7 +245,7 @@
 ## H
 
 + **Hafid Mukhlasin**
-  - Skills: #Vue
+  - Skills: #Vue #PHP
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -267,7 +267,7 @@
   - Medium: N/A
   
 + **Irfan Maulana**
-  - Skills: #Vue
+  - Skills: #Vue #NodeJS
   - Github: [@mazipan](https://github.com/mazipan)
   - Facebook: [Irfan Maulana](https://web.facebook.com/mazipanneh)
   - Twitter: [@maz_ipan](https://twitter.com/Maz_Ipan)
@@ -280,7 +280,7 @@
 ## J
 
 + **Jacky Efendi**
-  - Skills: #React, #NodeJs
+  - Skills: #React #NodeJS #TypeScript
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -289,7 +289,7 @@
   - Medium: N/A
   
 + **Jason Wihardja**
-  - Skills: #NodeJs
+  - Skills: #NodeJS
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -307,7 +307,7 @@
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
 + **Julian Alimin**
-  - Skills: #Angular, #NodeJs
+  - Skills: #Angular, #NodeJS
   - Github: [dmastag](https://github.com/dmastag)
   - Facebook: N/A
   - Twitter: N/A
@@ -320,7 +320,7 @@
 ## K
 
 + **Kevin Hermawan**
-  - Skills: #React
+  - Skills: #React #ReactNative
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -333,7 +333,7 @@
 ## L
 
 + **Lukluk Luhuring Santoso**
-  - Skills: #NodeJs
+  - Skills: #NodeJS
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
@@ -355,7 +355,7 @@
 ## M
 
 + **Mulia Nasution**
-  - Skills: #Vue
+  - Skills: #Vue #React #Laravel
   - Github: [mul14](https://github.com/mul14)
   - Facebook: [mul14](https://www.facebook.com/mul14)
   - Twitter: [@mul14](https://twitter.com/mul14)
@@ -364,7 +364,7 @@
   - Medium: N/A
   
 + **Muhammad Mustadi**
-  - Skills: #React, #NodeJs
+  - Skills: #React, #NodeJS
   - Github: [mathdroid](https://github.com/mathdroid)
   - Facebook: [mathdroid](https://www.facebook.com/mathdroid)
   - Twitter: [@mathdroid](https://twitter.com/mathdroid)
@@ -373,7 +373,7 @@
   - Medium: N/A
   
 + **Muhibbudin Suretno**
-  - Skills: #NodeJs, #Vue, #TypeScript
+  - Skills: #NodeJS, #Vue, #TypeScript #GraphQL
   - Github: [@muhibbudins](https://github.com/muhibbudins)
   - Facebook: [muhibbudins](https://web.facebook.com/muhibbudins)
   - Twitter: [@muhibbudins](https://twitter.com/muhibbudins)
@@ -456,7 +456,7 @@
   - Medium: [@resir014](https://medium.com/@resir014)
 
 + **Rian Yulianto W**
-  - Skills: #Angular , #TypeScript , #Vue
+  - Skills: #Angular, #TypeScript, #Vue
   - Github: [@Gulajava](https://github.com/GulajavaMinistudio)
   - Gitlab: [@Gulajava](https://gitlab.com/gulajava.mini)
   - Facebook: N/A
@@ -466,7 +466,7 @@
   - Medium: [@kucingmeongs](https://medium.com/@kucingmeongs)
 
 + **Riza Fahmi**
-  - Skills: #React, #NodeJs
+  - Skills: #React, #NodeJS
   - Github: [@rizafahmi](https://github.com/rizafahmi)
   - Facebook: [@rizafahmi](https://www.facebook.com/rizafahmi)
   - Twitter: [@rizafahmi22](https://twitter.com/rizafahmi22?lang=en)
@@ -506,7 +506,7 @@
 ## S
 
 + **Sastra Panca Nababan**
-  - Skills: #NodeJs #React
+  - Skills: #NodeJS #React
   - Github: [Sastra Nababan](https://github.com/SastraNababan)
   - Facebook: [Sastra Panca Nababan](https://www.facebook.com/sastranababan)
   - Twitter: [Sastra Nababan](https://twitter.com/sastranababan?lang=en)
@@ -515,7 +515,7 @@
   - Medium: [@sastranababan](https://medium.com/@sastranababan)
 
 + **Sonny Lazuardi**
-  - Skills: #React, #ReactNative, #NodeJs, #Typescript, #GraphQL
+  - Skills: #React, #ReactNative, #NodeJS, #Typescript, #GraphQL
   - Github: [sonnylazuardi](https://github.com/sonnylazuardi)
   - Facebook: [Sonny Lazuardi](https://facebook.com/sonny.lazuardi)
   - Twitter: [@sonnylazuardii](https://twitter.com/sonnylazuardi)
@@ -529,7 +529,7 @@
 
 
 + **Teofilus Candra**
-  - Skills: #React, #NodeJs, #ReactNative, #Vue
+  - Skills: #React, #NodeJS, #ReactNative, #Vue
   - Github: https://github.com/teofiluscandra
   - Facebook: https://www.facebook.com/teofiluscandra
   - Twitter: N/A
@@ -538,7 +538,7 @@
   - Medium: [@teofilus](https://medium.com/@teofiluscandra)
 
 + **Teno Siswono**
-  - Skills: #React, #Vue, #NodeJs, #Typescript
+  - Skills: #React, #Vue, #NodeJS, #Typescript
   - Github: [tenosiswono](https://github.com/tenosiswono)
   - Facebook: N/A
   - Twitter: N/A
@@ -590,7 +590,7 @@
 ## Z
 
 + **Zain Fathoni**
-  - Skills: #React #Express.js #AngularJS
+  - Skills: #React #Express #AngularJS
   - Github: N/A [Zain Fathoni](https://github.com/zainfathoni)
   - Facebook: N/A [Zain Fathoni](https://www.facebook.com/zain.fathoni)
   - Twitter: N/A [Zain Fathoni](https://twitter.com/zainfathoni)
