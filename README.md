@@ -35,6 +35,7 @@
   - LinkedIn: [Ade Yahya Prasetyo](https://www.linkedin.com/in/adeyahyap/)
   - Blog: [www.ihavemind.com](https://www.ihavemind.com)
   - Medium: [@adeyahya](https://medium.com/@adeyahya)
+  - Company: N/A
 
 + **Adiatma Kamarudin**
   - Skills: #ReactJS, #GraphQL, #Webpack, #TypeScript, #Flow
@@ -44,15 +45,17 @@
   - LinkedIn: [Adiatma Kamarudin](https://www.linkedin.com/in/adiatma-kamarudin-a63718138)
   - Blog: [adiatma9024.github.io](https://adiatma9024.github.io)
   - Medium: [@tutorjs](https://medium.com/tutorjs)
+  - Company: N/A
 
 + **Afrimadoni Dinata**
-  - Skills: Angular
+  - Skills: #Angular
   - Github: N/A
   - Facebook: N/A
   - Twitter: N/A
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
+  - Company: N/A
 
 + **Afrian Junior**
   - Skills: #React #Vue
