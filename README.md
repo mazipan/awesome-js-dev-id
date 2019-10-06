@@ -602,13 +602,14 @@
   - Medium: [@zain.fathoni](https://medium.com/@zain.fathoni)
 
 + **Zufrizal Yordan**
-  - Skills: N/A
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Skills: #Javascript, #PHP, #Laravel, #Codeigniter, #HTML, #CSS, #HTML5 & #CSS3
+  - Github: [zufrizalyordan](https://github.com/zufrizalyordan)
+  - Facebook: [zufrizal.yordan](https://www.facebook.com/zufrizal.yordan)
+  - Twitter: [@zufrizalyordan](https://twitter.com/zufrizalyordan)
+  - LinkedIn: [Zufrizal Yordan](https://www.linkedin.com/in/zufrizalyordan)
+  - Blog: [zufrizalyordan.com](https://www.zufrizalyordan.com/)
   - Medium: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
+  - Company: [HOOQ](https://www.hooq.tv)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
