@@ -49,13 +49,13 @@
 
 + **Afrimadoni Dinata**
   - Skills: #Angular
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [doenikoe](https://github.com/doenikoe)
+  - Facebook: [Afrimadoni Dinata](https://www.facebook.com/doenikoe)
+  - Twitter: [doenikoe](https://twitter.com/doenikoe)
+  - LinkedIn: [Afrimadoni Dinata](https://www.linkedin.com/in/afrimadoni/)
+  - Blog: [Rumbia Tech Blog](http://rumbia.id/)
   - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
-  - Company: N/A
+  - Company: [Allianz](https://www.allianz.com/en.html)
 
 + **Afrian Junior**
   - Skills: #React #Vue
