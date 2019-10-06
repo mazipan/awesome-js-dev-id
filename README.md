@@ -82,11 +82,11 @@
   - Medium: [@agungsurya](https://medium.com/@agungsurya)
 
 + **Alfred Crosby**
-  - Skills: #React
+  - Skills: #React #SQL #Docker #Kubernetes
   - Github: N/A
-  - Facebook: N/A
+  - Facebook: [Putu Alfred Crosby](https://www.facebook.com/putualfredcrosby)
   - Twitter: N/A
-  - LinkedIn: N/A
+  - LinkedIn: [I Putu Alfred Crosby](https://www.linkedin.com/in/i-putu-alfred-crosby-239170186/)
   - Blog: N/A
   - Medium: [@alfrcr](https://medium.com/@alfrcr)
 
@@ -488,7 +488,7 @@
   - Github: [@ri7nz](https://github.com/@ri7nz)
   - Facebook: N/A
   - Twitter: [@ri7nz](https://twitter.com/ri7nz)
-  - LinkedIn: N/A
+  - LinkedIn: [R Adysurya Agus](https://www.linkedin.com/in/r-adysurya-agus/)
   - Blog: [rin.rocks](https://rin.rocks/)
   - Medium: [@ri7nz](https://medium.com/@ri7nz)
 
@@ -498,11 +498,11 @@
 
 + **Sastra Panca Nababan**
   - Skills: #NodeJs #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [Sastra Nababan](https://github.com/SastraNababan)
+  - Facebook: [Sastra Panca Nababan](https://www.facebook.com/sastranababan)
+  - Twitter: [Sastra Nababan](https://twitter.com/sastranababan?lang=en)
+  - LinkedIn: [Sastra Nababan](https://id.linkedin.com/in/sastranababan)
+  - Blog: http://sastranababan.com/
   - Medium: [@sastranababan](https://medium.com/@sastranababan)
 
 + **Sonny Lazuardi**
@@ -581,11 +581,11 @@
 ## Z
 
 + **Zain Fathoni**
-  - Skills: #React
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
+  - Skills: #React #Express.js #AngularJS
+  - Github: N/A [Zain Fathoni](https://github.com/zainfathoni)
+  - Facebook: N/A [Zain Fathoni](https://www.facebook.com/zain.fathoni)
+  - Twitter: N/A [Zain Fathoni](https://twitter.com/zainfathoni)
+  - LinkedIn: [Zain Fathoni](https://www.linkedin.com/in/zainfathoni/?originalSubdomain=id)
   - Blog: N/A
   - Medium: [@zain.fathoni](https://medium.com/@zain.fathoni)
 
