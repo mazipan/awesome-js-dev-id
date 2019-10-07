@@ -49,13 +49,13 @@
 
 + **Afrimadoni Dinata**
   - Skills: #Angular
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Github: [doenikoe](https://github.com/doenikoe)
+  - Facebook: [Afrimadoni Dinata](https://www.facebook.com/doenikoe)
+  - Twitter: [doenikoe](https://twitter.com/doenikoe)
+  - LinkedIn: [Afrimadoni Dinata](https://www.linkedin.com/in/afrimadoni/)
+  - Blog: [Rumbia Tech Blog](http://rumbia.id/)
   - Medium: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
-  - Company: N/A
+  - Company: [Allianz](https://www.allianz.com/en.html)
 
 + **Afrian Junior**
   - Skills: #React #Vue
@@ -602,13 +602,14 @@
   - Medium: [@zain.fathoni](https://medium.com/@zain.fathoni)
 
 + **Zufrizal Yordan**
-  - Skills: N/A
-  - Github: N/A
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
+  - Skills: #Javascript, #PHP, #Laravel, #Codeigniter, #HTML, #CSS, #HTML5 & #CSS3
+  - Github: [zufrizalyordan](https://github.com/zufrizalyordan)
+  - Facebook: [zufrizal.yordan](https://www.facebook.com/zufrizal.yordan)
+  - Twitter: [@zufrizalyordan](https://twitter.com/zufrizalyordan)
+  - LinkedIn: [Zufrizal Yordan](https://www.linkedin.com/in/zufrizalyordan)
+  - Blog: [zufrizalyordan.com](https://www.zufrizalyordan.com/)
   - Medium: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
+  - Company: [HOOQ](https://www.hooq.tv)
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
