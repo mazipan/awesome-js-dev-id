@@ -310,13 +310,13 @@
   - Medium: [@Dewey92](https://medium.com/@Dewey92)
 
 + **Julian Alimin**
-  - Skills: #Angular, #NodeJS
+  - Skills: #Angular, #NodeJS, #Ionic, #Typescript, #Javascript, #Kubernetes, #Docker, #Gitlab-CI
   - Github: [dmastag](https://github.com/dmastag)
-  - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
-  - Medium: N/A
+  - Facebook: [Julian Alimin](https://github.com/julianalimin)
+  - Twitter: [Julian Alimin](https://twitter.com/julianalimin)
+  - LinkedIn: [Julian Alimin](https://www.linkedin.com/in/julianalimin)
+  - Blog: [Julian Alimin](https://julianalimin.com)
+  - Medium: [Julian Alimin](https://medium.com/@julianalimin)
   
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
