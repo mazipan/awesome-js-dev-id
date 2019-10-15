@@ -375,6 +375,15 @@
   - Blog: N/A
   - Medium: N/A
   
++ **Muhammad Rivki**
+  - Skills: #React, #NodeJS, #Vue, #Typescript
+  - Github: [mikqi](https://github.com/mikqi)
+  - Facebook: [Muhammad Rivki](https://www.facebook.com/this.rivki)
+  - Twitter: [@__mikqi](https://twitter.com/__mikqi)
+  - LinkedIn: [@muhammadrivki](https://www.linkedin.com/in/muhammadrivki/)
+  - Blog: [blog.rivki.id](https://blog.rivki.id/)
+  - Medium: N/A
+
 + **Muhibbudin Suretno**
   - Skills: #NodeJS, #Vue, #TypeScript #GraphQL
   - Github: [@muhibbudins](https://github.com/muhibbudins)
