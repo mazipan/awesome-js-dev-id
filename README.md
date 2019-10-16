@@ -204,13 +204,13 @@
   - Medium: N/A
 
 + **Fariz Rizaldy**
-  - Skills: N/A
-  - Github: N/A
+  - Skills: #Node, #React, #Vue, #Docker
+  - Github: [faultable](https://github.com/faultable)
   - Facebook: N/A
-  - Twitter: N/A
-  - LinkedIn: N/A
-  - Blog: N/A
-  - Medium: [@108kb](https://medium.com/@108kb)
+  - Twitter: [faultable](https://twitter.com/faultable)
+  - LinkedIn: [faultable](https://linkedin.com/in/faultable)
+  - Blog: [faultable.dev](https://faultable.dev)
+  - Medium: N/A
   
 + **Fatih Kalifa**
   - Skills: #React, #NodeJS, #ReasonML, #Svelte, #Rust, #GraphQL
