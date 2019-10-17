@@ -27,6 +27,16 @@
 
 ## A
 
++ **Ade Viankakrisna Fadlil**
+  - Skills: #React, #Electron, #NodeJs
+  - Github: [viankakrisna](https://github.com/viankakrisna)
+  - Facebook: [Ade Viankakrisna Fadlil](https://www.facebook.com/viankakrisna)
+  - Twitter: [@viankakrisna](https://twitter.com/viankakrisna)
+  - LinkedIn: [Ade Viankakrisna Fadlil](https://www.linkedin.com/in/viankakrisna/)
+  - Blog: [viankakrisna.tumblr.com](http://viankakrisna.tumblr.com)
+  - Medium: [@viankakrisna](https://medium.com/@viankakrisna)
+  - Company: Rumah123
+
 + **Ade Yahya Prasetyo**
   - Skills: #React, #ReactNative, #NodeJs, GraphQL
   - Github: Github: [adeyahya](https://github.com/adeyahya)
