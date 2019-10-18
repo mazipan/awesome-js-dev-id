@@ -27,6 +27,16 @@
 
 ## A
 
++ **Ade Viankakrisna Fadlil**
+  - Skills: #React, #Electron, #NodeJs
+  - Github: [viankakrisna](https://github.com/viankakrisna)
+  - Facebook: [Ade Viankakrisna Fadlil](https://www.facebook.com/viankakrisna)
+  - Twitter: [@viankakrisna](https://twitter.com/viankakrisna)
+  - LinkedIn: [Ade Viankakrisna Fadlil](https://www.linkedin.com/in/viankakrisna/)
+  - Blog: [viankakrisna.tumblr.com](http://viankakrisna.tumblr.com)
+  - Medium: [@viankakrisna](https://medium.com/@viankakrisna)
+  - Company: Rumah123
+
 + **Ade Yahya Prasetyo**
   - Skills: #React, #ReactNative, #NodeJs, GraphQL
   - Github: Github: [adeyahya](https://github.com/adeyahya)
@@ -141,6 +151,14 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## B
++ **Bagus Juang Wiantoro**
+  - Skills: #React, #ReactNative, #ReasonML, #NodeJs, #GraphQL
+  - Github: [broerjuang](https://github.com/broerjuang)
+  - Facebook: [Bagus Juang Wiantoro](https://www.facebook.com/broerjuang)
+  - Twitter: [@broerjuang](https://twitter.com/broerjuang)
+  - LinkedIn: [Bagus Juang Wiantoro](https://www.linkedin.com/in/juangwiantoro/)
+  - Medium: [@broerjuang](https://medium.com/@broerjuang)
+  - Company: Ruangguru
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
