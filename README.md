@@ -587,7 +587,7 @@
 
 + **Velta Azizah Destiana**
   - Skills: N/A
-  - Github: Github: [veltadestiana](https://github.com/veltadestiana)
+  - Github: [veltadestiana](https://github.com/veltadestiana)
   - Facebook: N/A
   - Twitter: [@velta__](https://twitter.com/velta__)
   - LinkedIn: [Velta Azizah Destiana](https://www.linkedin.com/in/velta/)
