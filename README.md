@@ -598,6 +598,15 @@
 
 ## W
 
++ **Wayan Jimmy**
+  - Skills: JavaScript, React, NodeJS
+  - Github: [wayanjimmy](https://github.com/wayanjimmy)
+  - Facebook: [wayanjimmy](https://www.facebook.com/wayanjimmy)
+  - Twitter: [@wayanjimmy](https://twitter.com/wayanjimmy)
+  - LinkedIn: N/A
+  - Blog: [wayanjimmy](https://wayanjimmy.gitlab.io)
+  - Medium: [@wayanjimmy](https://medium.com/@wayanjimmy)
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## X
