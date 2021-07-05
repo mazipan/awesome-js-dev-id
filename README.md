@@ -296,6 +296,11 @@
   - Blog: [www.mazipan.xyz](https://www.mazipan.xyz/)
   - Medium: [@mazipan](https://medium.com/@mazipan)
 
++ **Irshadi Bagasputro**
+  - Skills: #React #UI #UX
+  - Instagram: [@irshadi.bagasputro](https://instagram/irshadi.bagasputro)
+  - Twitter: [@irshadi](https://twitter.com/irshadi)
+
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## J
